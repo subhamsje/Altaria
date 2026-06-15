@@ -400,6 +400,6 @@ A foundational step toward **self-aware aerial intelligence platforms**.
 
 ## 👨‍💻 Team
 
-**Altaria Hackathon Team — IoT Warriors**
+**IoT Warriors**
 
 ---
